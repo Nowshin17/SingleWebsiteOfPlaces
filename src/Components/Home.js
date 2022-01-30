@@ -44,27 +44,6 @@ export default function Home() {
       </div>
 
 
-
-      <div class=" basis-1/4 pt-40 absolute max-w-sm rounded overflow-hidden shadow-lg border-2 rounded-[20px] ">
-      
-          <div class="px-6 py-2 ">
-            <div class="font-bold text-xl mb-2">মানিকগঞ্জ </div>
-            <p class="text-orange-700 text-base font-bold"> হরিরামপুর </p>
-          </div>
-
-          <div class="px-4 pt-4 pb-2">
-            <span class="inline-block text-[50px] text-center text-[#5e73db] bg-[#bbc5f9] rounded-[10px] px-40 py-3 text-sm font-semibold text-gray-700 mr-2 mb-2">EDIT</span>
-          </div>
-
-    
-    </div>
-  
-  {/* <div class="flex flex-row ">
-    <div>1</div>
-    <div>2</div>
-    <div>3</div>
-  </div> */}
-
 </div>
 
 
