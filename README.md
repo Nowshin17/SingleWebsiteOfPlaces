@@ -1,4 +1,8 @@
-# Getting Started with Create React App
+# Single Page app using React js and Tailwind CSS
+
+
+## Getting Started with Create React App
+
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
